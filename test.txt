@@ -1,10 +1,1 @@
-socks5h://user-spdf99pos6-session-1-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-2-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-3-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-4-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-5-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-6-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-7-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-8-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-9-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
-socks5h://user-spdf99pos6-session-10-state-us_alaska:zz4ZkbLaG01d7f_kMp@gate.decodo.com:7000
+
